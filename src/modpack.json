@@ -1,0 +1,22 @@
+{
+  "type": "modpack",
+  "versions": [
+    {
+      "versionid": -1,
+      "files": [
+        {
+          "id": "overrides",
+          "installer": "internal.overrides",
+          "link": "file://overrides",
+          "options": [
+            "client",
+            "server",
+            "required",
+            "included"
+          ]
+        }
+      ]
+    }
+  ],
+  "asversion": 1
+}
